@@ -109,21 +109,21 @@ The Img2Text_Pytesseract project is a robust software tool designed to convert i
 
 **System Requirements:**
 
-* **Python**: `version x.y.z`
+**Google Collab Notebook**
 
 ### ⚙️ Installation
 
 <h4>From <code>source</code></h4>
 
-> 1. Clone the Img2Text_Pytesseract repository:
+> 1. Clone the Img2Texto repository:
 >
 > ```console
-> $ git clone https://github.com/codereyinish/Img2Text_Pytesseract
+> $ git clone https://github.com/codereyinish/Img2Texto
 > ```
 >
 > 2. Change to the project directory:
 > ```console
-> $ cd Img2Text_Pytesseract
+> $ cd Img2Texto
 > ```
 >
 > 3. Install the dependencies:
@@ -135,17 +135,11 @@ The Img2Text_Pytesseract project is a robust software tool designed to convert i
 
 <h4>From <code>source</code></h4>
 
-> Run Img2Text_Pytesseract using the command below:
+> Run Img2Texto using the command below:
 > ```console
 > $ python main.py
 > ```
 
-### 🧪 Tests
-
-> Run the test suite using the command below:
-> ```console
-> $ pytest
-> ```
 
 ---
 
@@ -161,9 +155,9 @@ The Img2Text_Pytesseract project is a robust software tool designed to convert i
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Report Issues](https://github.com/codereyinish/Img2Text_Pytesseract/issues)**: Submit bugs found or log feature requests for the `Img2Text_Pytesseract` project.
-- **[Submit Pull Requests](https://github.com/codereyinish/Img2Text_Pytesseract/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/codereyinish/Img2Text_Pytesseract/discussions)**: Share your insights, provide feedback, or ask questions.
+- **[Report Issues](https://github.com/codereyinish/Img2Texto/issues)**: Submit bugs found or log feature requests for the `Img2Text_Pytesseract` project.
+- **[Submit Pull Requests](https://github.com/codereyinish/Img2Texto/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Join the Discussions](https://github.com/codereyinish/Img2Texto/discussions)**: Share your insights, provide feedback, or ask questions.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -171,7 +165,7 @@ Contributions are welcome! Here are several ways you can contribute:
 1. **Fork the Repository**: Start by forking the project repository to your github account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone https://github.com/codereyinish/Img2Text_Pytesseract
+   git clone https://github.com/codereyinish/Img2Texto
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
@@ -204,10 +198,9 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ## 🎗 License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+[MIT-License](LICENSE)
 
 ---
-
 ## 🔗 Acknowledgments
 
 - List any resources, contributors, inspiration, etc. here.
